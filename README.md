@@ -1,6 +1,6 @@
 ### This is a basic Weather App created using React-Native Expo and tracking enabled by Aptabase for analytics purpose
 
-##### How To Run The App
+#### How To Run The App
 
 ##### Step 1: 
 * in the terminal run the command 'npm install' to load the node packages (Note: node version should be > 16)
